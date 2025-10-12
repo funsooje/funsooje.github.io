@@ -2,7 +2,7 @@
 
 _Last updated: October 2025_
 
-This application, **Children Songs**, is provided as a free digital songbook for Apostolic Faith Church WECA Childrens Song Book called Watch & Pray.
+This application, **Watch and Pray**, is provided as a free digital songbook for Apostolic Faith Church WECA Childrens Song Book called Watch & Pray.
 
 We respect your privacy and want to be transparent about how the app works.
 
